@@ -84,6 +84,12 @@ li a {
     }
 }
 
+@media (min-width: 600px){
+    header nav {
+        display: block !important;       
+    }
+}
+
 /* WELCOME SECTION - MAIN  */
 
 .welcome-section {
